@@ -1,0 +1,47 @@
+body {
+	background-color: #000;
+	color: orange;
+	font: 400 16px/1.5 "Arial", sans-serif;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 35px;
+}
+
+.bold-text {
+	font-weight: 900;
+}
+.red-text {
+	color: red;
+}
+.right-text {
+	text-align: right;
+}
+.uppercase-text {
+	text-transform: uppercase;
+}
+.italic-text {
+	font-style: italic;
+}
+.underline-text {
+	text-decoration: underline;
+}
+.centered-text {
+	text-align: center;
+}
+.space-text {
+	word-spacing: 10px;
+}
+.through-text {
+	text-decoration: line-through;
+}
+.small-text {
+	font-size: small;
+}
+.big-text {
+	font-size: big;
+}
